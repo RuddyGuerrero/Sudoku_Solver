@@ -23,3 +23,11 @@ Sudoku is a fun puzzle game once you get the hang of it. At the same time, learn
 * Tip 2: Break the grid up visually into $3$ columns and $3$ rows. Each large column will have $3$, $3×3$ grids and each row will have $3$, $3×3$ grids. Now, look for columns or grids that have $2$ of the same number. Logically, there must be a 3rd copy of the same number in the only remaining 9-cell section. Look at each of the remaining $9$ positions and see if you can find the location of the missing number.
 
 Now that you know a little more about Sudoku, play and enjoy this game.
+
+
+
+This will open a window that allows you to input a Sudoku board. To input a number, click on the corresponding box and type in the number. The program will automatically check if the number is valid or not. Once all the numbers have been inputted, click the "Solve" button to solve the board.
+
+## Credits
+
+This program was developed by Ruddy. If you have any questions or comments, feel free to contact me.
